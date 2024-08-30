@@ -8,14 +8,17 @@
 - 😄 Pronouns: Ice
 - ⚡ Fun fact: ...
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&width=200&section=header&text=Pwr_Sr🎶&fontSize=90&fontColor=auto)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&width=200&section=header&text=Hello_Everyone🎶&fontSize=90&fontColor=auto)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi&fontAlign=30&fontSize=30&desc=(*/ω＼*)&descAlign=60&descAlignY=50&theme=radical)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="bash" width="45" height="45"/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"   width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"  width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg"  width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg" width="45" height="45" />
+          
 
 </p>
