@@ -5,9 +5,14 @@
 - 🌱 I’m currently learning How to be a good frontend & if i have more time i want to learn a Backend too !
 - 👯 I’m looking to collaborate on  Nice Company ! 
 - 😄 Pronouns: Ice
+  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&width=200&section=header&text=Hello_Everyone🎶&fontSize=90&fontColor=auto)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi&fontAlign=30&fontSize=30&desc=(*/ω＼*)&descAlign=60&descAlignY=50&theme=radical)
+<a href="https://github.com/P4warit06/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=P4warit06" />
+</a>
+<a href="https://github.com/P4warit06/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=P4warit06&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
