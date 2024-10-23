@@ -10,12 +10,9 @@
 <a href="https://github.com/P4warit06/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=P4warit06" />
 </a>
-<a href="https://github.com/P4warit06/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=P4warit06&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P4warit06&hide_progress=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Akrozifrae)](https://github.com/P4warit06/github-readme-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
