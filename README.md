@@ -7,11 +7,11 @@
 - ¥Pronouns: Ice
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api?username=P4warit06&show_icons=true&theme=transparent" />
+<a href="https://github.com/P4warit06/github-readme-stats">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=P4warit06&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=P4warit06&layout=compact&langs_count=8&card_width=320&theme=prussian" />
+<a href="https://github.com/P4warit06/convoychat">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=P4warit06&layout=compact&langs_count=8&card_width=320&theme=prussian" />
 </a>
 <p>
   
