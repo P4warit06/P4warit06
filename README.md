@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Pawarit 🖱️ <br>You Can call me 'Ice🧊<br>I'm looking for Programming and I want to  Backend Programmer 👨🏼‍💻
+My Name is Pawarit 🖱️ <br>You Can call me 'Ice🧊<br>I'm looking for Programming and I want to  be Backend Programmer 👨🏼‍💻
 
 
 ## 🌐 Socials:
