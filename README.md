@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name is Pawarit 🖱️ <br>You Can call me 'Ice🧊<br>I'm looking for Programming and I want to  be FullStackProgrammer 👨🏼‍💻
+My Name is Pawarit 🖱️ <br>You Can call me 'Ice🧊<br>I'm looking for Coding and I want to  be FullStack Programmer 👨🏼‍💻
 
 
 ## 🌐 Socials:
